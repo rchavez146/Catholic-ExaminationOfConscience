@@ -1,0 +1,41 @@
+const questions = {
+    responsibilitiesToGod: [
+        { id: 'missedMass', text: 'Have I gone to Mass on Sunday or have I rebelled and been stubborn about going to Mass?' },
+        { id: 'massParticipation', text: 'Did I participate in the Mass or did I daydream?' },
+        { id: 'dailyPrayer', text: 'Have I prayed every day?' },
+        { id: 'biblereading', text: 'Have I read the Bible?' },
+        { id: 'rebelliousToGod', text: 'Have I been rebellious toward God and his commands?' },
+        { id: 'misusedGodsName', text: 'Have I misused the name of God by swearing and cursing?' },
+        { id: 'expressedLoveToFather', text: 'Have I told the Father that I love him for creating me and making me his son/daughter?' },
+        { id: 'thankedJesus', text: 'Have I thanked Jesus for becoming man, dying for my sin and rising to give me eternal life?' },
+        { id: 'askedHolySpirit', text: 'Have I asked the Holy Spirit to help me conquer sin and temptation and to be obedient to God\'s commands?' }
+    ],
+    responsibilitiesToOthers: [
+        { id: 'disrespectful', text: 'Have I been rebellious, disobedient or disrespectful to my parents, teachers and those in authority over me?' },
+        { id: 'liedToParents', text: 'Have I lied to or deceived my parents or others?' },
+        { id: 'arrogant', text: 'Have I been arrogant and stubborn?' },
+        { id: 'talkedBack', text: 'Have I talked back to my parents or those in authority?' },
+        { id: 'angryGrudges', text: 'Have I gotten angry or nurtured and held grudges and resentments?' },
+        { id: 'refusedForgiveness', text: 'Have I refused to forgive others?' },
+        { id: 'cultivatedHatred', text: 'Have I cultivated hatred?' },
+        { id: 'sexualFantasies', text: 'Have I engaged in sexual fantasies?' },
+        { id: 'lustfulLooks', text: 'Have I looked at others lustfully?' },
+        { id: 'pornography', text: 'Have I read pornographic literature or looked at pornographic pictures, shows or movies?' },
+        { id: 'masturbation', text: 'Have I masturbated?' },
+        { id: 'sexualTouch', text: 'Have I lustfully kissed or sexually touched someone?' },
+        { id: 'sexualIntercourse', text: 'Have I had sexual intercourse?' },
+        { id: 'abortion', text: 'Have I had an abortion or encouraged another to have one?' },
+        { id: 'gossip', text: 'Have I gossiped about others?' },
+        { id: 'slander', text: 'Have I slandered anyone?' },
+        { id: 'liesAboutOthers', text: 'Have I told lies about others?' },
+        { id: 'mockery', text: 'Have I mocked or made fun of others?' },
+        { id: 'liedCheated', text: 'Have I lied or cheated?' },
+        { id: 'stolen', text: 'Have I stolen anything? Have I paid it back?' },
+        { id: 'selfishSpiteful', text: 'Have I been selfish or spiteful toward others?' },
+        { id: 'jealousy', text: 'Have I been jealous?' },
+        { id: 'drugsAlcohol', text: 'Have I gotten drunk, or taken drugs?' },
+        { id: 'occult', text: 'Have I participated in anything that is of the occult: ouija boards, fortune tellers, seances, channeling, astrology?' },
+        { id: 'virtues', text: 'Have I been patient, kind gentle and self-controlled?' },
+        { id: 'ignoredConscience', text: 'When my conscience told me to do something good, did I do it or did I ignore it?' }
+    ]
+};
